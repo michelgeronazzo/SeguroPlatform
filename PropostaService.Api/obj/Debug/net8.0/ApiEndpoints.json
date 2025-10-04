@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "PropostaService.Api.Controllers.PropostaController",
+    "Method": "Criar",
+    "RelativePath": "api/propostas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Shared.Dto.CriarPropostaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropostaService.Api.Controllers.PropostaController",
+    "Method": "Listar",
+    "RelativePath": "api/propostas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropostaService.Api.Controllers.PropostaController",
+    "Method": "Obter",
+    "RelativePath": "api/propostas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PropostaService.Api.Controllers.PropostaController",
+    "Method": "AlterarStatus",
+    "RelativePath": "api/propostas/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Shared.Dto.AlterarStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

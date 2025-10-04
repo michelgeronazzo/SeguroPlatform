@@ -1,0 +1,20 @@
+
+Projeto INDTGestaoSegurosPlatform
+
+| PropostaService  |     | ContratacaoService         |
+|------------------|     |----------------------------|
+| API REST         |     | API REST                   |
+|  (Controller)    |     |  (Controller)              |
+|     ↓            |     |     ↓                      |
+| Application      |     | Application                |
+| (UseCases/Ports) |     | (UseCases/Ports)           |
+|     ↓            |     |     ↓                      |
+| Domain           |     | Domain                     |
+| (Proposta)       |     | (Contratacao)              |
+|     ↓            |     |     ↓                      |
+| Infra            |     | Infra                      |
+| (InMemory Repo)  |     | (InMemory Repo + HTTP)     |
+
+Comunicação: HTTP REST → Contratacao → PropostaService
+
+Compartilhados: DTOs, Enums, Contracts (usado por ambos serviços)

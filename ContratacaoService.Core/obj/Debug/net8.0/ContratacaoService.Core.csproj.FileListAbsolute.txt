@@ -1,0 +1,17 @@
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\bin\Debug\net8.0\ContratacaoService.Core.deps.json
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\bin\Debug\net8.0\ContratacaoService.Core.dll
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\bin\Debug\net8.0\ContratacaoService.Core.pdb
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\bin\Debug\net8.0\PropostaService.Core.dll
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\bin\Debug\net8.0\Shared.dll
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\bin\Debug\net8.0\PropostaService.Core.pdb
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\bin\Debug\net8.0\Shared.pdb
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\ContratacaoService.Core.csproj.AssemblyReference.cache
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\ContratacaoService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\ContratacaoService.Core.AssemblyInfoInputs.cache
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\ContratacaoService.Core.AssemblyInfo.cs
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\ContratacaoService.Core.csproj.CoreCompileInputs.cache
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\Contrata.43E9B6C4.Up2Date
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\ContratacaoService.Core.dll
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\refint\ContratacaoService.Core.dll
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\ContratacaoService.Core.pdb
+C:\Users\Michel Geronazzo\Documents\_TesteINDT_API\ContratacaoService.Core\obj\Debug\net8.0\ref\ContratacaoService.Core.dll

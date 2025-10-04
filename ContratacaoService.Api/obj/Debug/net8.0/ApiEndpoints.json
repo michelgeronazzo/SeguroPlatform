@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ContratacaoService.Api.Controllers.ContratacaoController",
+    "Method": "Listar",
+    "RelativePath": "api/contratacoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContratacaoService.Api.Controllers.ContratacaoController",
+    "Method": "Obter",
+    "RelativePath": "api/contratacoes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContratacaoService.Api.Controllers.ContratacaoController",
+    "Method": "Contratar",
+    "RelativePath": "api/contratacoes/{propostaId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propostaId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

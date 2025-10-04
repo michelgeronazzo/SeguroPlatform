@@ -1,0 +1,68 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ContratacaoService.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/contratacoes/{propostaId}": {
+      "post": {
+        "tags": [
+          "Contratacao"
+        ],
+        "parameters": [
+          {
+            "name": "propostaId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/contratacoes": {
+      "get": {
+        "tags": [
+          "Contratacao"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/contratacoes/{id}": {
+      "get": {
+        "tags": [
+          "Contratacao"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
